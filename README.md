@@ -3,6 +3,8 @@
 
 <p align="justify">Soy un desarrollador web con una empresa llamada EDigital, en la cual nos apasiona hacer realidad las visiones en Internet. Combinando creatividad, experiencia técnica y gestión eficiente de proyectos desde el año 2018, hemos entregado con éxito excelentes soluciones web para una amplia gama de clientes, y actualmente iniciando a compartir videos a través de mis redes sociales.</p>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/673f564c5434bf319a09ac99?variant=light)](https://roadmap.sh)
+
 #### Enlaces
 
 <p align="center">
