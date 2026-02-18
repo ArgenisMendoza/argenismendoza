@@ -32,12 +32,12 @@ Soy un <strong>Desarrollador Web</strong> y fundador de <strong>EDigital</strong
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=argenismendoza&theme=default&hide_border=true" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argenismendoza&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+  <img alt="Argenis Stacks" src="https://github-readme-streak-stats.herokuapp.com/?user=argenismendoza&theme=ligth&hide_border=false" /> 
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=argenismendoza&theme=ligth&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=argenismendoza&title=Joined2020,Experience,Commits,Repositories&margin-w=15&no-frame=true" alt="Trofeos de GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=argenismendoza&title=Joined2020,Experience,Commits,Repositories&margin-w=15"/>
 </div>
