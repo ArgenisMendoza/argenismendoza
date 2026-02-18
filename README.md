@@ -6,15 +6,24 @@
 Soy un <strong>Desarrollador Web</strong> y fundador de <strong>EDigital</strong>, una empresa dedicada a convertir visiones digitales en realidades de alto impacto. Desde 2018, combino creatividad, experiencia técnica y una gestión de proyectos eficiente para ofrecer soluciones web excepcionales a una cartera diversa de clientes. Actualmente, estoy expandiendo mi alcance y compartiendo mi conocimiento a través de contenido en video en mis redes sociales.
 </p>
 
+![Años de Experiencia](https://img.shields.io/badge/Experiencia-15%2B%20años-2ea44f?style=for-the-badge)
+![Proyectos](https://img.shields.io/badge/Proyectos-500%2B-blue?style=for-the-badge)
+
+<br/>
+
+<div align="center">
+  
 [![roadmap.sh](https://roadmap.sh/card/wide/673f564c5434bf319a09ac99?variant=light)](https://roadmap.sh)
+  
+</div>
 
 ---
 
 ### 📬 Conecta Conmigo
 
 <p align="center">
-  <a href="https://www.instagram.com/programacion_edam/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://wa.me/message/WQBRVDLSW6XAN1"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://www.instagram.com/argenis_eliam/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://wa.me/584124088411"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://www.freelancer.es/u/argenis214a?f=argenis214a&sb=t"><img src="https://img.shields.io/badge/-Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"></a>
   <a href="mailto:argenis214a@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
@@ -39,5 +48,5 @@ Soy un <strong>Desarrollador Web</strong> y fundador de <strong>EDigital</strong
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=argenismendoza&title=Joined2020,Experience,Commits,Repositories&margin-w=15"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=argenismendoza&theme=github-light&hide_border=true" width="100%"/>
 </div>
